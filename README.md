@@ -1,0 +1,1 @@
+# Inheritance-abstract-polymorphism-interface-rule-example
